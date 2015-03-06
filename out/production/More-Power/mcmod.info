@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MoPower",
+  "name": "MoRePower",
+  "description": "To make your power plant expansion.",
+  "version": "0.0.0.a",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Atmatm6"],
+  "credits": "Cofh for making the "Open Source" RF power system",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
