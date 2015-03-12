@@ -10,6 +10,7 @@ public class Reference {
     public static final String dependencies = "required-after:Catalog";
 
     public static final String loggerPreInit = modid + "has started preinit";
+    public static final String loggerPreInitFinish = modid + "has ended preinit";
 
     public class ModsLoaded
     {

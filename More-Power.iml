@@ -664,7 +664,12 @@
       </library>
     </orderEntry>
     <orderEntry type="module" module-name="Catalogue" />
-    <orderEntry type="library" name="org.eclipse.mylyn.github:org.eclipse.egit.github.core:2.1.5" level="project" />
     <orderEntry type="module" module-name="main" />
+    <orderEntry type="module" module-name="AMI" />
+    <orderEntry type="module" module-name="GSC" />
+    <orderEntry type="module" module-name="NoStealerNo" />
+    <orderEntry type="module" module-name="PlayerLies" />
+    <orderEntry type="library" name="org.eclipse.mylyn.github:org.eclipse.egit.github.core:2.1.5" level="project" />
+    <orderEntry type="module" module-name="ElvinDash" />
   </component>
 </module>

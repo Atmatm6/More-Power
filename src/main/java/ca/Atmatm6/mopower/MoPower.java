@@ -23,5 +23,6 @@ public class MoPower {
         GameRegistry.registerWorldGenerator(oregen, 0);
         GameRegistry.registerBlock(Blocks.oreStatic, "orestatic");
         GameRegistry.registerBlock(Blocks.harvesterStatic, "harvester");
+        log.info(Reference.loggerPreInitFinish);
     }
 }
